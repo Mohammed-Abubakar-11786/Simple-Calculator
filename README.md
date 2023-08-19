@@ -4,7 +4,7 @@ This is Simple calculator through which we can perform all basic math calculatio
 
 # instruction to use the calculator
 We can give the input to this calculator either by the mouse printer or using the keyboard 
-if you're given expression Has syntax error Then the calculator does not give the output
+if you're given expression Has syntax error Then the calculator does not give any output
 
 if you give the input as any number divided by 0 then output will be given as infinity or 
 without any input if you try to press the 'enter' button to get the answer then the calculator returns undefined
