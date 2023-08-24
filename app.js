@@ -39,7 +39,7 @@ document.addEventListener("keypress", (event) => {
 });
 
 document.addEventListener("keydown",(event)=>{
-        if(event.key=="Backspace"){
+        if(event.key=="Backspace" || event.key=="Delete"){
             btnPop("B");
             clearLast();
         }        
